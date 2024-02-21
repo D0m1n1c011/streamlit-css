@@ -12,5 +12,4 @@ def run():
 
     st.write("# Hello World! 👋")
 
-if __name__ == "__main__":
-    run()
+run()
